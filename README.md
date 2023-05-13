@@ -7,5 +7,5 @@ Prerequisites:
    How to run the script
       python cc.py
       
-      Screenshot/GIF showing the sample use of the script
+     
       
